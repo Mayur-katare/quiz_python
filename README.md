@@ -1,5 +1,4 @@
-# quiz_python
-assesment
+
 def quiz():
 
     guesses = []
